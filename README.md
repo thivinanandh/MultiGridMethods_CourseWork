@@ -34,7 +34,7 @@ Magnitude(variation) of reduction of error norm for different Matrix
 sizes decreases as the Matrix size increases.
 
 ![ Comparison of reduction in error norm for Damped vs Normal Jacobi -
-damping Factor 0.666 ) ](Images/prob1.eps)
+damping Factor 0.666 ) ](Images/prob1.png)
 
 
 
@@ -52,7 +52,7 @@ Magnitude(variation) of reduction of error norm for different Eigen
 Modes decreases as the Eigen Mode size increases.
 
 ![ Comparison of reduction in error norm for Damped vs Normal Jacobi -
-damping Factor 0.666 ) ](Images/prob2.eps)
+damping Factor 0.666 ) ](Images/prob2.png)
 
 
 
@@ -74,7 +74,7 @@ the for the damped Gauss Seidel Iterations for varying Relaxing factor
 values.The Matrix size used is 512 and the Eigen Mode is 10.
 
 ![ Reduction in Error norm for various Damping Factors - Gauss Seidel
-](Images/prob4.eps)
+](Images/prob4.png)
 
 
 
@@ -85,7 +85,7 @@ closer to 2 However As shown in figure 6, When We approach very close to
 2, like 1.999 , then the Method Diverges.
 
 ![ Reduction in Error norm for various Damping Factors - Gauss Seidel
-](Images/prob5.eps)
+](Images/prob5.png)
 
 
 
@@ -97,7 +97,7 @@ the for the damped Gauss Seidel Iterations for varying Matrix sizes.The
 Relaxation Parameter used is 1.9 the Eigen Mode is 10.
 
 ![ SOR - Reduction in error norm for Relaxation Factor - 1.9 for various
-Matrix Sizes ](Images/prob6.eps)
+Matrix Sizes ](Images/prob6.png)
 
 
 
@@ -108,7 +108,7 @@ approaches 2, then the convergence becomes oscillatory . For lower
 Relaxation values like 1.6 , the error reduction will be shown as below
 
 ![ SOR - Reduction in error norm for Relaxation Factor - 1.6 for various
-Matrix Sizes ](Images/prob7.eps)
+Matrix Sizes ](Images/prob7.png)
 
 
 
@@ -119,7 +119,7 @@ The Below plot shows the difference in reduction of error norm between
 the Gauss Seidel and damped Gauss Seidel Iterations for varying Matrix
 sizes.The Relaxation Parameter used is 1.6 the Eigen Mode is 10.
 
-![ SOR vs Gauss Seidel - Varying Matrix Sizes ](Images/prob8.eps)
+![ SOR vs Gauss Seidel - Varying Matrix Sizes ](Images/prob8.png)
 
 
 ### Inference 
